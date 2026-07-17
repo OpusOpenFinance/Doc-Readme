@@ -14,7 +14,7 @@ O consentimento é a autorização concedida pelo usuário para que uma institui
 
 ### Diagrama de Sequência - Open Finance
 
-![Diagrama de sequência](../anexos/imagens/funcionamento-consentSequenceFinance.png)
+![Diagrama de sequência](https://files.readme.io/7518e6b56bb4e115c5ac6a5796bc80ec1821ebe3063f4a3414f3678575f19823-funcionamento-consentSequenceFinance.png)
 
 ### Etapas do Fluxo
 
@@ -122,7 +122,7 @@ Após a aprovação, o consentimento pode ser utilizado para:
 
 A iniciação do pagamento deve ocorrer **após** a autorização do consentimento de pagamento. Este fluxo utiliza as APIs de proxy para efetivar a transação.
 
-![Diagrama de sequência](../anexos/imagens/funcionamento-paymentSequenceFinance.png)
+![Diagrama de sequência](https://files.readme.io/c61ff957fe1089601b9bb67a481f60464cd4e09e454d4d6a916b7707e016c5cc-funcionamento-paymentSequenceFinance.png)
 
 Para detalhes técnicos (versões v4 e v5, códigos de erro JWT, exemplos de payload), consulte a documentação específica de [Iniciação de Pagamento](iniciacaoDePagamento) e [Pagamento Automático](pagamentoAutomatico).
 
@@ -132,7 +132,7 @@ Para detalhes técnicos (versões v4 e v5, códigos de erro JWT, exemplos de pay
 
 O vínculo de dispositivo permite que o usuário autorize um dispositivo (ex.: celular, computador) para aprovar transações utilizando autenticação FIDO2 (biometria, PIN), proporcionando maior segurança e praticidade.
 
-![Diagrama de sequência](../anexos/imagens/funcionamento-enrollmentSequenceFinance.png)
+![Diagrama de sequência](https://files.readme.io/74e6d6c3590f1209cc48ba90ccb9c7ff243bb41b90c6b528a5de7a5b9d9ff4b1-funcionamento-enrollmentSequenceFinance.png)
 
 ### Etapas do Fluxo de Solicitação de Vínculo de Dispositivo
 

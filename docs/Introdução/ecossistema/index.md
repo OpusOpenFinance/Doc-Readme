@@ -23,7 +23,7 @@ O Open Finance tem um escopo de implementação em 4 diferentes fases, conhecida
 
 Cada fase é descrita em detalhes na imagem abaixo:
 
-![Escopo Open Finance](./anexos/imagens/ecossistema-escopo.png)
+![Escopo Open Finance](https://files.readme.io/d7702fb087df237bb23d3b0fd2234ba918b924f1748097c67012104d61b47afa-ecossistema-escopo.png)
 [Fonte: Banco Central](https://openfinancebrasil.org.br/conheca-o-open-finance/)
 
 ---
@@ -32,7 +32,7 @@ Cada fase é descrita em detalhes na imagem abaixo:
 
 Para garantir a implementação do Open Finance, o Banco Central definiu uma estrutura para concretizar os objetivos do ecossistema. A estrutura está dividida da seguinte forma:
 
-![Organograma Open Finance](./anexos/imagens/ecossistema-organograma.png)
+![Organograma Open Finance](https://files.readme.io/0201ef1d251660f081c11c4b6ed7bbc255c438f48ea4f06895b82a3a541bf671-ecossistema-organograma.png)
 
 #### Banco Central
 
