@@ -1,6 +1,5 @@
 ---
 title: "Webhooks de Pagamentos"
-excerpt: "A API de Webhooks de Pagamentos é o canal pelo qual a Instituição Detentora notifica o Módulo de Iniciação de Pagamentos de mudanças de status em pagamentos,..."
 hidden: false
 ---
 

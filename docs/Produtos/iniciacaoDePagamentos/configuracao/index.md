@@ -1,6 +1,5 @@
 ---
 title: "Configuração"
-excerpt: "São dois cadastros:"
 hidden: false
 ---
 

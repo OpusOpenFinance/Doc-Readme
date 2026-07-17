@@ -1,6 +1,5 @@
 ---
 title: "Iniciação de Pagamento"
-excerpt: "A API de Iniciação de Transação de Pagamento PIX expõe os endpoints para criar, consultar e revogar consentimentos de pagamento, e para iniciar e gerenciar p..."
 hidden: false
 ---
 

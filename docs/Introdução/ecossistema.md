@@ -1,6 +1,5 @@
 ---
 title: "O Ecossistema"
-excerpt: "O Open Finance Brasil carrega um peso significativo na transformação do sistema de pagamentos do país. Assim como o Pix foi um sucesso, o Open Finance possui..."
 hidden: false
 ---
 

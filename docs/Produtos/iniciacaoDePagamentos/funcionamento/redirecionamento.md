@@ -1,6 +1,5 @@
 ---
 title: "Redirecionamento App-to-App e Web"
-excerpt: "Detalhar o tratamento do retorno do fluxo do Módulo de Iniciação de Pagamentos tanto no caminho mobile (App-to-App via Android App Links / iOS Universal Link..."
 hidden: false
 ---
 

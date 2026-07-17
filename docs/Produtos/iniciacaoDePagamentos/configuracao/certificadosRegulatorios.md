@@ -1,6 +1,5 @@
 ---
 title: "Certificados Regulatórios"
-excerpt: "Detalhar os certificados regulatórios exigidos para a operação no Open Finance Brasil e suas finalidades."
 hidden: false
 ---
 

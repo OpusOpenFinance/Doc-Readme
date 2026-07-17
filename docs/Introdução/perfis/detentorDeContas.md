@@ -1,6 +1,5 @@
 ---
 title: "Detentor de Conta"
-excerpt: "O perfil de participação como Detentor de Conta no Open Finance Brasil representa a instituição que recebe solicitações de pagamento de um Iniciador de Trans..."
 hidden: false
 ---
 

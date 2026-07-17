@@ -1,6 +1,5 @@
 ---
 title: "Vínculo de Dispositivo"
-excerpt: "O Vínculo de Dispositivo (Enrollment) é a base do fluxo de Pagamento sem Redirecionamento do Open Finance Brasil. Ele permite que o usuário autorize transaçõ..."
 hidden: false
 ---
 

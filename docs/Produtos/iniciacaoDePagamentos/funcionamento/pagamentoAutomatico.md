@@ -1,6 +1,5 @@
 ---
 title: "Pagamento Automático"
-excerpt: "A API de Pagamento Automático permite a criação de consentimentos recorrentes que autorizam o débito periódico em conta para finalidades como assinaturas, me..."
 hidden: false
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "ITP"
-excerpt: "O Iniciador de Transação de Pagamento (ITP) é o perfil do Open Finance Brasil autorizado a realizar iniciações de pagamento no ecossistema. O ITP conduz jorn..."
 hidden: false
 ---
 
@@ -62,4 +61,3 @@ Para utilizar a **Plataforma Opus Open Finance** no perfil de ITP, é necessári
 [OnboardingITP]: ./onboardingITP.html
 [Setup]: ../../../opusOpenFinance/implantacaoDaPlataforma/index.html
 [Jornada-Consentimento]: ../../jornadaConsentimento/index.html
-[Diagrama-Sequência]: https://files.readme.io/0dd5d8464f583bfb8253796bbe0fd6fd04104374a224bcf28c6066b45b604e09-itp-consentSequence.png

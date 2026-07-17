@@ -1,6 +1,5 @@
 ---
 title: "Dados abertos"
-excerpt: "A frente de dados abertos do Open Finance faz referência à fase 1 do Open Finance. A Fase 1 possibilita que as instituições participantes do Open Finance pub..."
 hidden: false
 ---
 

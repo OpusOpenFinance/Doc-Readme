@@ -1,6 +1,5 @@
 ---
 title: "Visão cliente: o que preciso disponibilizar?"
-excerpt: "Página em construção."
 hidden: false
 ---
 

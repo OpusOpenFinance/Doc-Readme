@@ -1,6 +1,5 @@
 ---
 title: "Recepção de Dados"
-excerpt: "Produto para consumir dados de clientes no Open Finance como Receptor de Dados."
 hidden: false
 ---
 

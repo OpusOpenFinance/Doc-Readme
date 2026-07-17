@@ -1,6 +1,5 @@
 ---
 title: "Conceitos"
-excerpt: "Entender a arquitetura e os fluxos do Open Finance é essencial para a compreensão do Módulo de Iniciação de Pagamentos. Esta seção apresenta os principais co..."
 hidden: false
 ---
 

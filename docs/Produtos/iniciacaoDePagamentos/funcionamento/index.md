@@ -1,6 +1,5 @@
 ---
 title: "Funcionamento"
-excerpt: "Este documento descreve, em alto nível, os principais fluxos de negócio suportados pelo Módulo de Iniciação de Pagamentos e pelo Módulo de Recepção de Dados ..."
 hidden: false
 ---
 
@@ -258,13 +257,4 @@ No fluxo de Jornada Otimizada, são gerados **dois consentimentos**:
 ### Relação entre os Consentimentos
 
 - O consentimento secundário pode ser revogado sem afetar o consentimento primário;
-- Se o consentimento primário for revogado, o secundário também é revogado automaticamente;
-- Se apenas o consentimento de dados for cancelado, o usuário precisará conceder um novo para que o acesso ao saldo seja restabelecido.
-
-### Fluxo de Autorização
-
-Quando o usuário aprova o consentimento primário:
-
-- O consentimento secundário é automaticamente aprovado;
-- O ITP pode acessar os dados da conta usando o ID do consentimento secundário;
-- O fluxo de pagamento segue normalmente.
+- Se o consentimento prim

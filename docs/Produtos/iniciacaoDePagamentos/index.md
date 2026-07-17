@@ -1,6 +1,5 @@
 ---
 title: "Iniciação de Pagamentos"
-excerpt: "Produto para iniciar pagamentos Pix, TED/TEF e automáticos no Open Finance como ITP."
 hidden: false
 ---
 

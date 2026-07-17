@@ -1,6 +1,5 @@
 ---
 title: "Receptor de Dados"
-excerpt: "O Receptor de Dados corresponde a um perfil do Open Finance que tem autoridade para requisitar dados de outras instituições que são Transmissoras de Dados. C..."
 hidden: false
 ---
 
@@ -81,5 +80,4 @@ Para iniciar a utilização do software, existem alguns pré-requisitos:
 > - Para avaliar o guia de experiência do usuário, [clique aqui][GuiaUX].
 
 [DiagramaSequência]: https://files.readme.io/0dd5d8464f583bfb8253796bbe0fd6fd04104374a224bcf28c6066b45b604e09-itp-consentSequence.png
-[GuiaUX]: https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1477279745/v.19.00.01+Guia+de+Experi+ncia+do+Usu+rio+Open+Finance+Brasil
-[API-Recepção]: /reference/oas-receptor
+[GuiaUX]: https://openfinancebr

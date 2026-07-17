@@ -1,6 +1,5 @@
 ---
 title: "Transmissor de Dados"
-excerpt: "O perfil de Transmissor de Dados representa a instituição que recebe solicitações de compartilhamento de dados de um Receptor de Dados. A Plataforma Opus Ope..."
 hidden: false
 ---
 

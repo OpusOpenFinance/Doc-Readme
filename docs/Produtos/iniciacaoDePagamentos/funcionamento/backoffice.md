@@ -1,6 +1,5 @@
 ---
 title: "Backoffice"
-excerpt: "A API de Backoffice expõe operações administrativas de consulta sobre os dados de consentimentos, vínculos e pagamentos do Módulo de Iniciação de Pagamentos...."
 hidden: false
 ---
 
