@@ -1,0 +1,7 @@
+- get_proxy-open-banking-accounts-v2-accounts
+- get_proxy-open-banking-accounts-v2-accounts-accountid
+- get_proxy-open-banking-accounts-v2-accounts-accountid-balances
+- get_proxy-open-banking-accounts-v2-accounts-accountid-transactions
+- get_proxy-open-banking-accounts-v2-accounts-accountid-transactions-current
+- get_proxy-open-banking-accounts-v2-accounts-accountid-overdraft-limits
+- get_proxy-open-banking-accounts-v2-accounts-accountid-reserved-balances
