@@ -1,0 +1,7 @@
+---
+api:
+  file: opusTPP-recepcaoDadosOi.yml
+  operationId: >-
+    get_proxy-open-insurance-insurance-rural-v1-insurance-rural-policyid-policy-info
+hidden: false
+---
