@@ -1,0 +1,5 @@
+- post_proxy-open-banking-payments-v5-pix-payments
+- get_proxy-open-banking-payments-v5-pix-payments-paymentid
+- patch_proxy-open-banking-payments-v5-pix-payments-paymentid
+- get_proxy-open-banking-payments-v5-consents-consentid-pix-payments
+- patch_proxy-open-banking-payments-v5-consents-consentid-pix-payments
