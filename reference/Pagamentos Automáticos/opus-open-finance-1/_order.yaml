@@ -1,0 +1,8 @@
+- automaticpaymentspostrecurringconsents
+- oofcautomaticpaymentspostrecurringconsentsconsentidauthorisationretry
+- oofcautomaticpaymentsgetrecurringconsentsconsentid
+- oofcautomaticpaymentspatchrecurringconsentsconsentid
+- oofcgetparticipants-1
+- oofcgetdcm-1
+- oofcputdcm-1
+- oofcapptoappauthorizationresult-1
