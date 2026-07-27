@@ -1,0 +1,12 @@
+- get_proxy-open-banking-credit-cards-accounts-v2-accounts
+- get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid
+- >-
+  get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid-limits
+- >-
+  get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid-transactions
+- >-
+  get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid-transactions-current
+- >-
+  get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid-bills
+- >-
+  get_proxy-open-banking-credit-cards-accounts-v2-accounts-creditcardaccountid-bills-billid-transactions

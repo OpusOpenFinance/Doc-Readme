@@ -1,0 +1,6 @@
+- post_proxy-open-banking-automatic-payments-v2-pix-recurring-payments
+- get_proxy-open-banking-automatic-payments-v2-pix-recurring-payments
+- >-
+  get_proxy-open-banking-automatic-payments-v2-pix-recurring-payments-recurringpaymentid
+- >-
+  patch_proxy-open-banking-automatic-payments-v2-pix-recurring-payments-recurringpaymentid

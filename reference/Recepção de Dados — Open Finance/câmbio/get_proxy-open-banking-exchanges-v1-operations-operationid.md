@@ -1,0 +1,6 @@
+---
+api:
+  file: opusTPP-recepcaoDadosOf.yml
+  operationId: get_proxy-open-banking-exchanges-v1-operations-operationid
+hidden: false
+---
