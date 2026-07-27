@@ -81,4 +81,4 @@ Para iniciar a utilização do software, existem alguns pré-requisitos:
 
 [DiagramaSequência]: https://files.readme.io/063b1f60f6ab072bdf2267d6808ae6a67a426fbd5473b23d31d669bb668e39e2-itp-consentSequence.png
 [GuiaUX]: https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1477279745/v.19.00.01+Guia+de+Experi+ncia+do+Usu+rio+Open+Finance+Brasil
-[API-Recepção]: /reference/oas-receptor
+[API-Recepção]: /reference/get_proxy-open-banking-accounts-v2-accounts

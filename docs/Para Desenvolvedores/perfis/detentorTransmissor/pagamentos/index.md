@@ -42,7 +42,7 @@ A descrição da API que deve ser implementada pela _camada de integração de p
 - **v4** [clique aqui para acessar][API-pagamento].
 - **v5**: [clique aqui para acessar][API-pagamentoV5].
 
-Para fazer o download dos arquivos YAML/OAS que contém as especificações das APIs clique [**aqui para a v4**](/reference/payment-integration) e [**aqui para a v5**](/reference/payment-integration-v5.0.0-rc).
+Para fazer o download dos arquivos YAML/OAS que contém as especificações das APIs clique [**aqui para a v4**](/reference/post_account-discovery) e [**aqui para a v5**](/reference/post_account-discovery).
 
 ### Cenários de Pagamentos a Serem Cobertos pela Integração
 
@@ -261,8 +261,8 @@ A data de cada agendamento deve ser determinada conforme descrito em [como ident
 
 [App-e-Web]: /docs/appeweb
 [Imagem-Camada-Integração]: https://files.readme.io/747e46f20d56b5a0c63e759ec3dfacf10aafec804dd77991180cb43e7b32ad7c-representacaoCamadaDeIntegracao.png
-[API-pagamento]: /reference/payment-integration
-[API-pagamentoV5]: /reference/payment-integration-v5
+[API-pagamento]: /reference/post_account-discovery
+[API-pagamentoV5]: /reference/post_account-discovery
 [Cenarios-Pagamentos]: /docs/cenariospagamentos
 [Validacoes-Pagamentos]: /docs/validacoespagamentos
 [Discovery-Recursos]: /docs/discoveryrecursos
