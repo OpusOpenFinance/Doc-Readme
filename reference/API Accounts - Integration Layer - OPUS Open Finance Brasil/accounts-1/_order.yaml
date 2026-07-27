@@ -1,0 +1,7 @@
+- discoveraccounts
+- accountsgetaccounts
+- accountsgetaccountsaccountid
+- accountsgetaccountsaccountidbalances
+- accountsgetaccountsaccountidtransactions
+- accountsgetaccountsaccountidtransactionscurrent
+- accountsgetaccountsaccountidoverdraftlimits
