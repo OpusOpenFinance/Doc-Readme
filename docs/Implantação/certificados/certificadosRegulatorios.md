@@ -1,5 +1,6 @@
 ---
 title: "Certificados Regulatórios"
+slug: "certificados-regulatorios-implantacao"
 hidden: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Exemplo Contas"
+slug: "od-contas"
 hidden: false
 ---
 

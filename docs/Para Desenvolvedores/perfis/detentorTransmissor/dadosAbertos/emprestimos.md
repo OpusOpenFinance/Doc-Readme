@@ -1,5 +1,6 @@
 ---
 title: "Exemplo Empréstimos"
+slug: "od-emprestimos"
 hidden: false
 ---
 

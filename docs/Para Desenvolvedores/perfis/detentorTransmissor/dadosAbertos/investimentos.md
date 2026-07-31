@@ -1,5 +1,6 @@
 ---
 title: "Exemplo Investimentos"
+slug: "od-investimentos"
 hidden: false
 ---
 

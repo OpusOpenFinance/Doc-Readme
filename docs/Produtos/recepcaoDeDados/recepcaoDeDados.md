@@ -1,5 +1,6 @@
 ---
 title: "Recepção de Dados — fluxo"
+slug: "recepcao-de-dados-fluxo"
 hidden: false
 ---
 
