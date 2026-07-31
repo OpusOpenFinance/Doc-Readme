@@ -1,6 +1,5 @@
 ---
 title: "Recepção de Dados"
-slug: "receptor-recepcao-de-dados"
 hidden: false
 ---
 

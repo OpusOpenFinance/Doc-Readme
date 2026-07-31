@@ -1,6 +1,5 @@
 ---
 title: "Dados Abertos"
-slug: "dados-abertos-exemplos"
 hidden: false
 ---
 
@@ -98,16 +97,16 @@ São apresentadas abaixo as APIs regulatórias referentes a Dados Abertos e exem
 [Pension]: /reference/getpensionriskcoverages
 [Unarranged]: /reference/getbusinessunarrangedaccountoverdraft
 [Channels-JSON]: /docs/canaisatendimento
-[Accounts-JSON]: /docs/od-contas
-[Loans-JSON]: /docs/od-emprestimos
+[Accounts-JSON]: /docs/exemplocontas
+[Loans-JSON]: /docs/exemploemprestimos
 [Financings-JSON]: /docs/financiamentos
 [Unarranged-JSON]: /docs/adiantamentoadepositantes
 [Inv-financings-JSON]: /docs/direitoscreditoriosdescontados
 [CreditCard-JSON]: /docs/cartaocredito
-[Investments-JSON]: /docs/od-investimentos
+[Investments-JSON]: /docs/exemploinvestimentos
 [Insurance-JSON]: /docs/seguros
 [Acquiring-JSON]: /docs/adquirencia
 [Capitalization-JSON]: /docs/capitalizacao
 [Pension-JSON]: /docs/previdencia
-[Exchange-JSON]: /docs/od-cambio
+[Exchange-JSON]: /docs/exemplocambio
 [Perfis-Open-Finance-Brasil]: /docs/dadosabertos

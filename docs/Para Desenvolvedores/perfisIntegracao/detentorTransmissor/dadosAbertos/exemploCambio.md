@@ -1,6 +1,5 @@
 ---
 title: "Exemplo Câmbio"
-slug: "od-cambio"
 hidden: false
 ---
 
