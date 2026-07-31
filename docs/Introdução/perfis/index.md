@@ -47,4 +47,4 @@ Os perfis de atuação podem ser entendidos conforme a tabela abaixo:
 
 A Plataforma Opus Open Finance oferece uma solução completa para atender aos requisitos necessários a todos os perfis de participação do *Open Finance Brasil*.
 
-[Imagem dos perfis de p
+[Imagem dos perfis de participação]: https://files.readme.io/3053a7adf4c42c8e77e17ae023ac42becee211558092d3ae3113c31e4d12e9c2-index-perfis.png

@@ -257,4 +257,13 @@ No fluxo de Jornada Otimizada, são gerados **dois consentimentos**:
 ### Relação entre os Consentimentos
 
 - O consentimento secundário pode ser revogado sem afetar o consentimento primário;
-- Se o consentimento prim
+- Se o consentimento primário for revogado, o secundário também é revogado automaticamente;
+- Se apenas o consentimento de dados for cancelado, o usuário precisará conceder um novo para que o acesso ao saldo seja restabelecido.
+
+### Fluxo de Autorização
+
+Quando o usuário aprova o consentimento primário:
+
+- O consentimento secundário é automaticamente aprovado;
+- O ITP pode acessar os dados da conta usando o ID do consentimento secundário;
+- O fluxo de pagamento segue normalmente.
