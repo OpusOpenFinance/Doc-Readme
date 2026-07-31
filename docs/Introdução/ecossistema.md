@@ -78,9 +78,11 @@ As instituições participantes devem acompanhar o andamento do ecossistema para
 
 ### Links Relevantes para o Regulatório
 
-- [Informas](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17367115/Reposit+rio+de+Informes)
-- [Portal do desenvolvedor](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview)
-- [Instruções normativas do Bacen](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas)
-- \[Repositório de decisões do Conselho Deliberativo
+- [Informas;](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17367115/Reposit+rio+de+Informes)
+- [Portal do desenvolvedor;](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview)
+- [Instruções normativas do Bacen;](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas)
+- [Repositório de decisões do Conselho Deliberativo;](https://openfinancebrasil.org.br/decisoes-do-conselho-deliberativo/)
+- [Canal do Open Finance no YouTube;](https://www.youtube.com/@openfinancebrasil/videos)
+- [Relatórios anuais.](https://openfinancebrasil.org.br/relatorios/)
 
 <br />
