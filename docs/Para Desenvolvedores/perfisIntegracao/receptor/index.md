@@ -61,7 +61,7 @@ O processo de autorização para compartilhamento de dados segue uma **jornada c
 
 ### Certificação obrigatória
 
-Para uma instituição se tornar Receptor de Dados, é necessário passar pelos testes da certificação OpenID RP - *Relying parties*. Mais detalhes sobre a certificação podem ser encontrados [aqui](/docs/certificacoesecertificados).
+Para uma instituição se tornar Receptor de Dados, é necessário passar pelos testes da certificação OpenID RP - *Relying parties*. Mais detalhes sobre a certificação podem ser encontrados [aqui](/docs/certificados).
 
 ---
 
@@ -69,7 +69,7 @@ Para uma instituição se tornar Receptor de Dados, é necessário passar pelos 
 
 Para iniciar a utilização do software, existem alguns pré-requisitos:
 
-1. Completar o processo de [setup (implantação)](/docs/implantacaodaplataforma).
+1. Completar o processo de setup (implantação).
 
 2. Ter completado toda a homologação do perfil de Transmissor de Dados.
 

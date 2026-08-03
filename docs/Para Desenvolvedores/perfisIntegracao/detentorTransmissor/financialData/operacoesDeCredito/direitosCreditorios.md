@@ -25,7 +25,6 @@ A documentação da API de Direitos Creditórios a ser construída na *camada de
 
 Para fazer o download do arquivo YAML/OAS que contém a especificação da API clique [**aqui**](/reference/discoverinvoicefinancings).
 
-
 Alguns navegadores de internet, como *Chrome*, ocasionalmente sinalizam como *não segura* a operação de *download* de arquivos YAML, exigindo o desbloqueio manual pelo usuário. Esses arquivos, entretanto, têm conteúdo do tipo texto e não apresentam risco por si.
 
 [API-Direitos-Creditórios]: /reference/discoverinvoicefinancings

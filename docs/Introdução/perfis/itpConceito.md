@@ -51,13 +51,13 @@ O [portal do desenvolvedor][Portal-Dev] oferece um calendário com as próximas 
 
 Para utilizar a **Plataforma Opus Open Finance** no perfil de ITP, é necessário concluir as seguintes etapas:
 
-1. Completar o processo de [implantação][Setup].
+1. Completar o processo de implantação.
 2. Ter completado toda a homologação do perfil de Detentor de Conta. (recomendamos a avaliação desse critério com o compliance de sua instituição)
 3. Construir a experiência de usuário para que a jornada de consentimento seja possível para os clientes. O [Guia de Experiência do Usuário do Open Finance Brasil][GuiaUX] traz uma descrição detalhada sobre essa jornada.
 4. Caso utilize sua própria licença, completar todo o processo de [onboarding de ITP][OnboardingITP].
 
 [GuiaUX]: https://guia-de-ux-open-finance-brasil.scroll.site/guia-de-experi-ncia-open-finance-brasil/v.22.00.01
 [Portal-Dev]: https://openfinancebrasil.atlassian.net/wiki/spaces/DraftOF/calendars
-[OnboardingITP]: /docs/onboardingitp
-[Setup]: /docs/implantacaodaplataforma
+[OnboardingITP]: /docs/onboarding
+
 [Jornada-Consentimento]: /docs/jornadaconsentimento

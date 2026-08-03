@@ -25,7 +25,6 @@ A documentação da API de Empréstimos a ser construída na *camada de integra�
 
 Para fazer o download do arquivo YAML/OAS que contém a especificação da API clique [**aqui**](/reference/discoverloans).
 
-
 Alguns navegadores de internet, como *Chrome*, ocasionalmente sinalizam como *não segura* a operação de *download* de arquivos YAML, exigindo o desbloqueio manual pelo usuário. Esses arquivos, entretanto, t~em conteúdo do tipo texto e não apresentam risco por si.
 
 [API-Emprestimo]: /reference/discoverloans

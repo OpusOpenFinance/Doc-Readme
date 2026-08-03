@@ -39,7 +39,7 @@ Um ponto importante a ressaltar é que as etapas mais trabalhosas do processo de
 ### 3. **Certificação OpenID**
 
 - Execução de testes para validação do ambiente de homologação;
-- Preparação das evidências para envio à OpenID ([certificações RP e OP](/docs/certificacoesecertificados));
+- Preparação das evidências para envio à OpenID ([certificações RP e OP](/docs/certificados));
 - Efetuação do pagamento da taxa de certificação.
 - Publicação da instituição no [site oficial da OpenID][Site-OpenID].
 
@@ -57,7 +57,7 @@ Um ponto importante a ressaltar é que as etapas mais trabalhosas do processo de
 
 ### 5. **Layer de Integração**
 
-- Integração dos sistemas de retaguarda da instituição ao produto, conforme o [perfil de participação da instituição financeira](/docs/perfisparticipacao). Tipicamente, [envolve a construção do *layer de integração*](/docs/integracaodaplataforma) adaptado aos sistemas de retaguarda da instituição.
+- Integração dos sistemas de retaguarda da instituição ao produto, conforme o [perfil de participação da instituição financeira](/docs/perfis). Tipicamente, [envolve a construção do *layer de integração*](/docs/camadaintegracao) adaptado aos sistemas de retaguarda da instituição.
 - **Nota:** Normalmente, não é necessário adaptar os sistemas de retaguarda em si, mas mapear a forma de extração das informações referentes a cada produto financeiro oferecido pela instituição (no caso do perfil transmissor de dados), ou a forma de realizar pagamentos e consultar o resultado dessas operações (no caso do perfil detentor de conta). A camada de integração funciona justamente como um adaptador entre os formatos internos dos sistemas de retaguarda e aqueles exigidos pelo *Open Finance Brasil*.
 
 ---
@@ -79,7 +79,7 @@ Um ponto importante a ressaltar é que as etapas mais trabalhosas do processo de
 
 ### 8. **Certificados Digitais**
 
-- Aquisição dos [certificados digitais](/docs/certificacoesecertificados);
+- Aquisição dos [certificados digitais](/docs/certificados);
 - Cadastro dos certificados no diretório.
 
 ---

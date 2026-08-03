@@ -214,8 +214,7 @@ schemas:
 | Tipo     | JSON Schema                                                                                                                                 |
 | :------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
 | Request  | discoveryResourceRequest.json                         |
-| Response | [discovery-nonselectable-resource-response.json](../schemas/v2/consent/discoveryDataSharing/discovery-nonselectable-resource-response.json) |
-
+| Response | discovery-nonselectable-resource-response.json |
 
 *[DRAFT: O schema do consentimento dentro do request
 está em revisão]*
@@ -374,7 +373,7 @@ cadastrais definido pelo Open Finance Brasil.
 No momento da criação do consentimento todas as permissões dos agrupamentos
 de dados aos quais se deseja consentimento devem ser enviadas. Esse conjunto
 de permissões necessárias, chamado de grupos de permissões, são designados
-conforme tabela abaixo ([o link](https://openbanking-brasil.github.io/openapi/swagger-apis/consents/1.0.3.yml)
+conforme tabela abaixo (o link
 para documentação oficial):
 
 | Categoria de Dados | Agrupamento | Permissões |
@@ -497,7 +496,7 @@ Exemplo de Request:
 ```
 
 Mais exemplos de request e de response para a rota "approvePaymentConsentCreation"
-podem ser encontradas [aqui](/docs/approvepaymentconsentcreation_v3).
+podem ser encontradas aqui.
 
 Exemplo de comando utilizado no `Dockerfile` para adicionar o arquivo das rotas
 `approvePaymentConsentCreation`, `approvePaymentConsentCreation_v2` e `approvePaymentConsentCreation_v3`:

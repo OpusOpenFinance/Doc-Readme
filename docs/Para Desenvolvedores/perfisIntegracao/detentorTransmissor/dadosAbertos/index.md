@@ -18,7 +18,6 @@ Portanto, em uma implantação padrão será necessária apenas a criação de u
 
 A Plataforma Opus Open Finance possui um parâmetro de configuração para indicar a localização desses arquivos estáticos, e esse parâmetro será configurado durante o processo de implantação da solução.
 
-
 >Caso sua instituição possua um sistema de cadastro estruturado de seus canais de atendimento e produtos financeiros oferecidos ao mercado, há duas possibilidades de integração:
 >
 >1. Alterar o sistema em questão para gerar arquivos JSON no formato exigido pelo regulatório (ou desenvolver um programa específico que extraia essas informações e gere esse arquivo). Essa é a opção mais simples e, portanto, a recomendada;
@@ -57,7 +56,6 @@ As APIs de produtos são referentes aos produtos que a instituição oferece. Ti
 
 São apresentadas abaixo as APIs regulatórias referentes a Dados Abertos e exemplos de arquivos JSON para o atendimento às chamadas dessas APIs.
 
-
 >As APIs são apresentadas aqui apenas para ilustrar o cenário completo do atendimento às exigências regulatórias referentes a Dados Abertos. Além disso, na descrição de cada API são apresentados os possíveis valores válidos para todas as chaves do JSON de resposta.
 >
 >A Plataforma Opus Open Finance **já implementa** essas APIs e, portanto, não é necessário construí-las.
@@ -65,7 +63,6 @@ São apresentadas abaixo as APIs regulatórias referentes a Dados Abertos e exem
 >Para integrar nossa solução será necessário apenas construir arquivos JSON de resposta a cada API, e os exemplos apresentados são ótimos pontos de partida para essa construção.
 >
 >Voltamos a ressaltar que é necessário disponibilizar arquivos JSON apenas para os produtos financeiros efetivamente oferecidos pela instituição.
-
 
 |API                               |Link Open API          |Link Exemplo JSON           |
 |:--------------------------------:|:---------------------:|:--------------------------:|

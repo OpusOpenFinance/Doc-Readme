@@ -43,10 +43,9 @@ O perfil de dados abertos é obrigatório a todas as instituições que são par
 
 A **Plataforma Opus Open Finance** implementa a API de dados abertos e basta uma integração (muito simples) para que a fase 1 esteja operacional, além das seguintes etapas:
 
-1. Ter concluído a [implantação do produto][Implantação].
+1. Ter concluído a implantação do produto.
 
 2. Realizar a integração concomitante à integração do Transmissor de Dados. (ideal é que ambos os perfis entrem em produção ao mesmo tempo)
 
 > A integração é realizada por meio de uma estrutura em formato JSON gerada dinâmica ou estaticamente para reportar os dados ao ecossistema do *Open Finance Brasil*.
 
-[Implantação]: /docs/implantacaodaplataforma

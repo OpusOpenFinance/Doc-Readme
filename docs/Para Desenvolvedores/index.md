@@ -29,12 +29,11 @@ Em linhas gerais, as requisições do *Open Finance Brasil* estão divididas em 
 
 Dadas as características específicas de cada categoria de requisições, a plataforma utiliza modelos de integração diferentes para cada uma. Em ambos os casos, **é necessária a construção de artefatos de software** que realizarão a interação entre a plataforma e os sistemas de retaguarda da instituição financeira.
 
-No caso da integração de dados, necessária para o [perfil *transmissor de dados*][Transmissor], o detalhamento do modelo de integração pode ser encontrado [**neste link**][Compartilhamento].
+No caso da integração de dados, necessária para o [perfil *transmissor de dados*][Transmissor], o detalhamento do modelo de integração pode ser encontrado **neste link**.
 
 No caso de pagamentos, necessário para o [perfil *detentor de contas*][Detentor], o detalhamento do modelo de integração pode ser encontrado [**nesse  link**][Pagamentos].
 
-[Compartilhamento]: /docs/compartilhamentodedados
 [Pagamentos]: /docs/pagamentos
-[Integração app-web]: /docs/appeweb
+[Integração app-web]: /docs/redirecionamento
 [Transmissor]: /docs/transmissordedados
 [Detentor]: /docs/detentordecontas

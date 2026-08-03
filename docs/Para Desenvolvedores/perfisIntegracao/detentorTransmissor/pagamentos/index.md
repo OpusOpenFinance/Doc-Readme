@@ -254,10 +254,10 @@ Não. A **Plataforma Opus Open Finance** realizará uma requisição separada pa
 Por exemplo, ao receber uma requisição de agendamento recorrente por 5 meses, um débito por mês, a plataforma solicitará para a retaguarda da instituição financeira 5 agendamento independentes.  
 A data de cada agendamento deve ser determinada conforme descrito em [como identificar a data do pagamento][Cenarios-Pagamentos].
 
-[App-e-Web]: /docs/appeweb
+[App-e-Web]: /docs/redirecionamento
 
 [API-pagamento]: /reference/post_account-discovery
 [API-pagamentoV5]: /reference/post_account-discovery
 [Cenarios-Pagamentos]: /docs/cenariospagamentos
 [Validacoes-Pagamentos]: /docs/validacoespagamentos
-[Discovery-Recursos]: /docs/discoveryrecursos
+[Discovery-Recursos]: /docs/discovery

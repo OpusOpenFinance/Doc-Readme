@@ -83,13 +83,13 @@ O [portal do desenvolvedor][Portal-Desenvolvedor] também oferece um calendário
 
 A **Plataforma Opus Open Finance** implementa todas as APIs regulatórias do perfil transmissor de dados. Para operacionalizar esse perfil utilizando a plataforma, é necessário:
 
-1. Completar todo o processo de [implantação][Implantação].
+1. Completar todo o processo de implantação.
 2. Construir, para o aplicativo móvel e Internet Banking (se houver), a experiência de usuário referente à concessão de consentimentos de compartilhamento de dados, conforme definido pelo regulatório do *Open Finance Brasil*. [O guia de experiência do usuário][GuiaUX] dá mais detalhes sobre o fluxo de interação com o usuário que deve ser implementado.
 3. Construir a [camada de integração][Camada-Integração] com os sistemas de retaguarda conforme os produtos financeiros oferecidos pela instituição para seus clientes.
 
 [Limites-operacionais]: https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17924220/Limites+operacionais
 [JornadaConsentimento]: /docs/jornadaconsentimento
 [Portal-Desenvolvedor]: https://openfinancebrasil.atlassian.net/wiki/spaces/DraftOF/calendars
-[Implantação]: /docs/implantacaodaplataforma
+
 [GuiaUX]: https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1477279745/v.19.00.01+Guia+de+Experi+ncia+do+Usu+rio+Open+Finance+Brasil
-[Camada-Integração]: /docs/integracaodaplataforma
+[Camada-Integração]: /docs/camadaintegracao

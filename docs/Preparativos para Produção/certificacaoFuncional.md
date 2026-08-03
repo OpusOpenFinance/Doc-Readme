@@ -17,7 +17,6 @@ Além disso, o ecossistema exige que as participantes contratem alguns certifica
 - **Certificado de Autenticação**;
 - **Certificado de Assinatura**.
 
-
 **Certificações e certificados são diferentes!**
 **Certificações** são evidências de que a implementação do *Open Finance Brasil* dos participantes está consoante as especificações funcionais e de segurança.
 **Certificados** são gerados por uma certificadora autorizada e utilizados para garantir a autenticidade e/ou encriptar a comunicação entre as participantes do *Open Finance Brasil*.

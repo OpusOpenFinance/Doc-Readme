@@ -26,7 +26,6 @@ A documentação da API de cartão de crédito a ser construída na *camada de i
 
 Para fazer o download do arquivo YAML/OAS que contém a especificação da API clique [**aqui**](/reference/discovercreditcardaccounts).
 
-
 Alguns navegadores de internet, como *Chrome*, ocasionalmente sinalizam como *não segura* a operação de *download* de arquivos YAML, exigindo o desbloqueio manual pelo usuário. Esses arquivos, entretanto, têm conteúdo do tipo texto e não apresentam risco por si.
 
 [API-Cartao-de-credito]: /reference/discovercreditcardaccounts

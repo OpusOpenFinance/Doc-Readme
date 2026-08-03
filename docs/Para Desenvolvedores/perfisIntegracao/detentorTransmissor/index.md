@@ -6,9 +6,6 @@ hidden: false
 <!-- PREVIEW da separação (item #3) — revisar antes de aplicar -->
 > _Página A — Visão geral: o que a solução resolve, o que você desenvolve, e as telas de aceite._
 
-
-
-
 ## Introdução
 
 Esta página foi elaborada para apoiar usuários que estão utilizando a ferramenta pela primeira vez. Aqui, é possível encontrar instruções passo a passo que tornarão o uso do software mais simples, intuitivo e eficiente, ajudando a explorar todo o seu potencial desde o início, e entender o funcionamento da solução.

@@ -31,7 +31,6 @@ A documentação das APIs a serem construídas na *camada de integração* pode 
 |    Contas     | [**Neste link**][API-Contas] | [**Download**](/reference/discoveraccounts)       |
 |    Common     | [**Neste link**][API-Common] | [**Download**](/reference/checkaccountholderstatus) |
 
-
 Alguns navegadores de internet, como *Chrome*, ocasionalmente sinalizam como *não segura* a operação de *download* de arquivos YAML, exigindo o desbloqueio manual pelo usuário. Esses arquivos, entretanto, têm conteúdo do tipo texto e não apresentam risco por si.
 
 [API-Contas]: /reference/discoveraccounts
