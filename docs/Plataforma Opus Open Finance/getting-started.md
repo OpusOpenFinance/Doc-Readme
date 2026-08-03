@@ -1,48 +1,46 @@
 ---
-title: Welcome to Opus Open Finance
+title: Bem-vindo à Plataforma Opus Open Finance
 hidden: false
 ---
+
 <Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
+  Esta é a documentação da **Plataforma Opus Open Finance** — a solução da Opus para instituições financeiras participarem do **Open Finance Brasil** em todos os perfis de participação.
 </Callout>
 
+A plataforma oferece uma solução completa para atender aos requisitos do *Open Finance Brasil*, tanto no ecossistema de **compartilhamento de dados** quanto no de **pagamentos**. Use os atalhos abaixo para navegar pela documentação.
+
+## Comece por aqui
+
 <Cards>
-  {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+  <Card title="O Ecossistema" href="/docs/ecossistema" icon="fa-duotone fa-globe">Visão geral do Open Finance Brasil: fases, escopo e estrutura de governança.</Card>
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+  <Card title="Perfis de Participação" href="/docs/perfis" icon="fa-duotone fa-users">Os papéis do ecossistema: Transmissor, Receptor, Detentor de Conta e ITP.</Card>
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
+  <Card title="Jornada de Consentimento" href="/docs/jornadaconsentimento" icon="fa-duotone fa-file-signature">Como funciona o consentimento no compartilhamento de dados e nos pagamentos.</Card>
+
+  <Card title="Visão do Cliente" href="/docs/visaocliente" icon="fa-duotone fa-clipboard-check">O que a instituição precisa disponibilizar para participar.</Card>
 </Cards>
 
 <br />
 
-## Recent Releases
+## Produtos
 
 <Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+  <Card kind="tile" title="Iniciação de Pagamentos" href="/docs/iniciacaodepagamentos" icon="fa-duotone fa-money-bill-transfer">Consentimentos e iniciação de pagamentos PIX (v4 e v5), pagamentos automáticos e sem redirecionamento.</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
-
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="Recepção de Dados" href="/docs/recepcaodedados" icon="fa-duotone fa-cloud-arrow-down">Obtenção de dados cadastrais e transacionais no papel de Receptor.</Card>
 </Cards>
 
 <br />
 
-## The Basics
+## Para desenvolvedores
 
 <Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
+  <Card kind="tile" title="Guias por Perfil" href="/docs/perfisintegracao" icon="fa-duotone fa-code">Guias técnicos de integração organizados por perfil de participação.</Card>
 
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
+  <Card kind="tile" title="Camada de Integração" href="/docs/camadaintegracao" icon="fa-duotone fa-layer-group">Como conectar os sistemas de retaguarda da instituição à plataforma.</Card>
 
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
-
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
-
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
-
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
+  <Card kind="tile" title="Referência de APIs" href="/reference" icon="fa-duotone fa-code-simple">Explore os endpoints das APIs da plataforma.</Card>
 </Cards>
 
 <br />
